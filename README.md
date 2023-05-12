@@ -35,15 +35,15 @@ python Bankers'sAlgorithm
 ## Screenshots
 - Below are some screenshots the feature some of the parts of the graphical user interface
 
-![App Screenshot](Screenshot1.jpg)
+![App Screenshot](Banker/Screenshot1.jpg)
 
-![App Screenshot](Screenshot3.jpg)
+![App Screenshot](Banker/Screenshot3.jpg)
 
-![App Screenshot](Screenshot7.jpg)
+![App Screenshot](Banker/Screenshot7.jpg)
 
-![App Screenshot](Screenshot8.jpg)
+![App Screenshot](Banker/Screenshot8.jpg)
 
-![App Screenshot](Screenshot9.jpg)
+![App Screenshot](Banker/Screenshot9.jpg)
 
 
 ## License
